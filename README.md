@@ -1,4 +1,3 @@
-# Welcome
 👋 Hi, I’m Tran Gia Lam
 👀 I’m interested in somethings related Computer Science, Book, Movies...
 🌱 I’m currently learning blockchain technology
