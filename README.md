@@ -1,3 +1,3 @@
 👋 Hi, I’m Tran Gia Lam
 👀 I’m interested in somethings related Computer Science like Web, Algorithms...
-📫 You can reach me on Facebook @dev.trangialam or another Github @DevLamTran, and read my content I write on my personal blog at Tran Gia Lam
+📫 I'm studying in Nong Lam University. You can reach me on @Facebook @dev.trangialam or another @Github @DevLamTran
